@@ -81,6 +81,6 @@ cd Plant_Disease_Detection && streamlit run app.py
 ---
 
 ## 👤 Author
-**Ak-007**
+**ASWIN404**
 IEEE AI/ML/DL Internship Participant
 GitHub: [ASWIN404](https://github.com/ASWIN404)
