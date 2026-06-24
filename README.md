@@ -1,2 +1,2 @@
-# IEEE-ML-PROJECTS
+# IEEE ML-PROJECTS
 hhahahahah
