@@ -34,7 +34,7 @@ Predicts whether a patient is at risk of diabetes from 8 clinical health paramet
 
 Detects plant diseases from leaf images using a trained Convolutional Neural Network. Provides disease diagnosis and treatment suggestions.
 
-📁 [View Project →](./Plant_Disease_Detection/)
+📁 [View Project →](./Plant Disease Detection/)
 
 **Tech:** Python · TensorFlow · Keras · Streamlit · Pillow
 
